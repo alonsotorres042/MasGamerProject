@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0cae4cff9684a14a8464f54e5ed2154, type: 3}
+  m_Name: ShipData
+  m_EditorClassIdentifier: 
+  isMoving: 0
+  rotationPercent: 0.5241252
+  rotationVector: {x: 0.2281432, y: 0.9736276, z: 0}
